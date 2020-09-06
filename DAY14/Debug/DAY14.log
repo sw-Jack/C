@@ -1,0 +1,4 @@
+﻿  test04.c
+D:\1c평일_LJW\DAY14\test04.c(54,28): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+D:\1c평일_LJW\DAY14\test04.c(47,1): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  DAY14.vcxproj -> D:\1c평일_LJW\DAY14\Debug\DAY14.exe
