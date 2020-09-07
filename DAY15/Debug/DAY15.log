@@ -1,0 +1,4 @@
+﻿  test04.c
+D:\1c평일_LJW\DAY15\test04.c(33,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+D:\1c평일_LJW\DAY15\test04.c(34,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  DAY15.vcxproj -> D:\1c평일_LJW\DAY15\Debug\DAY15.exe
