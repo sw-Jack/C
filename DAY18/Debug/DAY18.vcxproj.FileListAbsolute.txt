@@ -1,0 +1,2 @@
+C:\Users\이재우\Documents\Lee\C언어\MY\DAY18\Debug\DAY18.exe
+C:\Users\이재우\Documents\Lee\C언어\MY\DAY18\Debug\DAY18.pdb
